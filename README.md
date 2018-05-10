@@ -1,6 +1,6 @@
 # yili/Deluge-OpenVPN
 This images contains OpenVPN client and deluge. It enables your to torrent under OpenVPN without slowing down your host machine internet
-![openvpn](./images/OpenVPN.png OpenVPN) ![deluge](./images/deluge.png deluge)
+![openvpn](https://github.com/frank777777777/Deluge-OpenVPN-docker/blob/master/images/OpenVPN.png?raw=true) ![deluge](https://github.com/frank777777777/Deluge-OpenVPN-docker/blob/master/images/Deluge.png?raw=true)
 * Deluge is a lightweight, Free Software, cross-platform BitTorrent client. Full Encryption. Client-server model which makes it easier to remote access
 * OpenVPN is an open-source software application that implements virtual private network (VPN) techniques to create secure point-to-point or site-to-site connections in routed or bridged configurations and remote access facilities.
 
