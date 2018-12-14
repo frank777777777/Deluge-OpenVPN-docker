@@ -23,7 +23,7 @@ $ docker build --build-arg vpnConfig=yourVPNConfig.ovpn . -t delugevpn:1.0 -f do
 
 ## Run image
 ```
-$ docker run --privileged -d -p yourAvailablePortForWebUI:8112 -p yourAvailablePortForConsole:58846 -v yourHostDownloadDirectory:/root/downloads --name=delugeVPN delugevpn:1.0
+$ docker run --privileged -d -p yourAvailablePortForWebUI:8112 -p yourAvailablePortForConsole:58846 -v yourHostDownloadDirectory:/root/Downloads --name=delugeVPN delugevpn:1.0
 ```
 Voilà! Now open your browser and enter localhost:yourAvailablePortForWebUI and start downloading
 
